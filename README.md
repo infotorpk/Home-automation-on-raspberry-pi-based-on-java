@@ -1,4 +1,4 @@
-Home-automation-on-raspberry-pi-based-on-java
+Home-automation-using-raspberry-pi-based-on-java
 =============================================
 Raspberry Pi home automation system that will switch your home appliances on or off .If we are moving towards a smart home 
 it requires a serious investment of money for hardware,but if we have a little power house computer like raspberry  pi its 
